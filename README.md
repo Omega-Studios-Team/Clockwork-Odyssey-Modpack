@@ -1,4 +1,10 @@
 # Clockwork-Odyssey-Modpack
+
+![GitHub Tag](https://img.shields.io/github/v/tag/RLLanonymous/Clockwork-Odyssey-Modpack?sort=date&style=for-the-badge&logo=gitbook)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RLLanonymous/Clockwork-Odyssey-Modpack/total?style=for-the-badge&logo=github&color=%23209403)
+![Static Badge](https://img.shields.io/badge/Latest%20Minecraft%20Version%20Supported-1.19.2-%2307b1e0?style=for-the-badge)
+
+
 - [Gateways To Eternity](https://www.curseforge.com/projects/417802) [3.2.3] by Shadows_of_Fire
 - [Simple RPC](https://www.curseforge.com/projects/411816) [3.3.2] by HypherionMC
 - [YUNG's Better Strongholds](https://www.curseforge.com/projects/465575) [1.19.2-Forge-3.2.0] by YUNGNICKYOUNG, Acarii
