@@ -8,6 +8,12 @@
 
 ![Static Badge](https://img.shields.io/badge/Latest%20Minecraft%20Version%20Supported-1.19.2-%2307b1e0?style=for-the-badge)
 
+[![Static Badge](https://img.shields.io/badge/Modpack%20Wiki-%23555555?style=for-the-badge)](https://github.com/RLLanonymous/Clockwork-Odyssey-Modpack/wiki)
+
+
+
+
+
 ## Mods List
 
 - [Drippy Loading Screen](https://www.curseforge.com/projects/511770) [3.0.1] by Keksuccino
