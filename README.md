@@ -1,4 +1,3 @@
-# Clockwork-Odyssey-Modpack 
 
 ![Clockwork Odyssey Title 1](https://github.com/user-attachments/assets/34f509eb-31fc-409b-8b5d-1ed4800ddab4)
 
