@@ -10,9 +10,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Latest%20Minecraft%20Version%20Supported-1.19.2-%2307b1e0?style=for-the-badge)
 
-[![Static Badge](https://img.shields.io/badge/Modpack%20Wiki-%23555555?style=for-the-badge)](https://github.com/RLLanonymous/Clockwork-Odyssey-Modpack/wiki)
-
-
 ## F.A.Q
 
 Why the config folder in this repository doesn't contain all of the config ?
