@@ -1,0 +1,8 @@
+{
+	chapter_groups: [
+		{ id: "1FDD239F5BD83D55", title: "Dimensions" }
+		{ id: "6E63EFE35DAB6F14", title: "Storage" }
+		{ id: "45B656D275CC80FD", title: "Technology" }
+		{ id: "5EE878693AC7EE5A", title: "Other" }
+	]
+}
