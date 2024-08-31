@@ -1,0 +1,250 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: "1FDD239F5BD83D55"
+	icon: "minecraft:end_stone"
+	id: "6DBDB7B8776F3C9A"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5CF73A2D5C7CDDD4"]
+			description: ["Locate the Ender Stronghold and &lenter the End&r"]
+			icon: "minecraft:end_portal_frame"
+			id: "7272AF63BC9E9032"
+			shape: "circle"
+			subtitle: "Enter the dimension of the End"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_portal_frame"
+				id: "38D408725E181233"
+				title: "Enter the End"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7272AF63BC9E9032"]
+			id: "736D1F5ADD7F4FD2"
+			rewards: [{
+				id: "308F9A0FA9A098C9"
+				item: {
+					Count: 1b
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:shulker_gate_small"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Kill the Ender dragon"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "340E94DF80832565"
+				title: "Kill the Ender dragon"
+				type: "kill"
+				value: 1L
+			}]
+			title: "The End."
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			description: ["&lKill&r an Enderman by any method."]
+			icon: "minecraft:enderman_spawn_egg"
+			id: "3E3733D372F6CE62"
+			subtitle: "Successfully kill your first Enderman"
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "07D031EAFD6A0517"
+				title: "Kill an Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Enderman slayer."
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3E3733D372F6CE62"]
+			description: ["Find an Ender Pearl."]
+			icon: "minecraft:ender_pearl"
+			id: "23F35E03BC372162"
+			subtitle: "Obtain an Ender pearl"
+			tasks: [{
+				id: "4F07F14532C5919B"
+				item: "minecraft:ender_pearl"
+				title: "Find an Ender pearl"
+				type: "item"
+			}]
+			title: "Teleportation !"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["23F35E03BC372162"]
+			description: ["Obtain &l12 eyes of Ender&r"]
+			icon: "minecraft:ender_eye"
+			id: "5CF73A2D5C7CDDD4"
+			rewards: [{
+				id: "2432C2DC6A56650B"
+				item: {
+					Count: 1b
+					id: "minecraft:diamond_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Obtain 12 eyes of Ender"
+			tasks: [{
+				count: 12L
+				id: "25EC3D4DE34D8E0A"
+				item: "minecraft:ender_eye"
+				title: "Obtain 12 eyes of Ender"
+				type: "item"
+			}]
+			title: "The eyes of Ender."
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["736D1F5ADD7F4FD2"]
+			icon: "minecraft:purpur_pillar"
+			id: "57F6582FEB779763"
+			rewards: [{
+				count: 10
+				id: "7A3EDC02EA8C60D3"
+				item: "minecraft:experience_bottle"
+				type: "item"
+			}]
+			subtitle: "Find an End city and visit it"
+			tasks: [{
+				icon: "minecraft:purpur_pillar"
+				id: "4B51858E6E59F048"
+				structure: "minecraft:end_city"
+				title: "Find an End city"
+				type: "structure"
+			}]
+			title: "Enderman's house?"
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["736D1F5ADD7F4FD2"]
+			id: "736C8DF5A5BAEEF8"
+			rewards: [{
+				id: "23EDD7E4623EC3D0"
+				item: {
+					Count: 1b
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:shulker_gate"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Kill 5* the dragon"
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:dragon_head"
+				id: "306483CD472D4F40"
+				title: "Kill 5* the Ender dragon"
+				type: "kill"
+				value: 5L
+			}]
+			title: "Dragon killer !"
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["7272AF63BC9E9032"]
+			id: "2ECECD03FDB132AA"
+			rewards: [{
+				id: "55FECF55A033CF1D"
+				item: {
+					Count: 1b
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:enderman_gate"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Obtain the Ender dragon breath in a bottle"
+			tasks: [{
+				id: "2CF164266E747E4C"
+				item: "minecraft:dragon_breath"
+				type: "item"
+			}]
+			title: "The breath of the monster !"
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["57F6582FEB779763"]
+			icon: {
+				Count: 1b
+				id: "minecraft:elytra"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "03E355AB746D9740"
+			rewards: [{
+				count: 3
+				id: "29427BB6EF46A95D"
+				item: "minecraft:phantom_membrane"
+				type: "item"
+			}]
+			tasks: [{
+				id: "03737FE019F0F0E4"
+				item: {
+					Count: 1b
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				title: "Find a pair of Elytra"
+				type: "item"
+			}]
+			title: "FLY LITTLE JOHN !!!"
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["736C8DF5A5BAEEF8"]
+			icon: "minecraft:dragon_head"
+			id: "11129E0C4196B766"
+			rewards: [{
+				id: "25C6094533430D1E"
+				item: {
+					Count: 1b
+					id: "gateways:gate_pearl"
+					tag: {
+						gateway: "gateways:shulker_gate_large"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Kill 10* the Ender dragon"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "63B5F51A07162D02"
+				title: "Kill 10* the Ender dragon"
+				type: "kill"
+				value: 10L
+			}]
+			title: "Dragon addictive..."
+			x: 1.5d
+			y: -6.0d
+		}
+	]
+	title: "The End"
+}

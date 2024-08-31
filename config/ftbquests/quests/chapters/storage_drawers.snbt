@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "storage_drawers"
+	group: "6E63EFE35DAB6F14"
+	icon: "storagedrawers:oak_full_drawers_1"
+	id: "136E70A79140D747"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Storage Drawers"
+}

@@ -1,12 +1,12 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "create"
+	filename: "thermal_series"
 	group: "45B656D275CC80FD"
-	icon: "create:large_cogwheel"
-	id: "2DD40C52E626E874"
-	order_index: 0
+	icon: "thermal:dynamo_stirling"
+	id: "597D5FC0A78435C7"
+	order_index: 1
 	quest_links: [ ]
 	quests: [ ]
-	title: "Create"
+	title: "Thermal Series"
 }

@@ -1,12 +1,12 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "create"
+	filename: "mekanism"
 	group: "45B656D275CC80FD"
-	icon: "create:large_cogwheel"
-	id: "2DD40C52E626E874"
-	order_index: 0
+	icon: "mekanism:digital_miner"
+	id: "7D4924511AA4F987"
+	order_index: 2
 	quest_links: [ ]
 	quests: [ ]
-	title: "Create"
+	title: "Mekanism"
 }

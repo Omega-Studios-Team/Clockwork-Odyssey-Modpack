@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iron__chests"
+	group: "6E63EFE35DAB6F14"
+	icon: "ironchest:iron_chest"
+	id: "425CA00B87EC12E7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Iron Chests"
+}

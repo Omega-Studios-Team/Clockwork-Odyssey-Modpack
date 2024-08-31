@@ -1,0 +1,27 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "the_aether"
+	group: "1FDD239F5BD83D55"
+	icon: "aether:aether_grass_block"
+	id: "07BCD3212371CE58"
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		description: ["Enter for the first time in the &lAether&r dimension."]
+		icon: "aether:aether_portal_frame"
+		id: "66C9AC9FA297BC62"
+		shape: "hexagon"
+		subtitle: "Visit the Aether"
+		tasks: [{
+			dimension: "aether:the_aether"
+			id: "3A1E64332ADA9D03"
+			title: "Welcom to the Aether"
+			type: "dimension"
+		}]
+		title: "Welcome to the Aether !"
+		x: -1.5d
+		y: 0.0d
+	}]
+	title: "The Aether"
+}

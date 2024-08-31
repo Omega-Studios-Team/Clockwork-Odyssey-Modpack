@@ -1,0 +1,44 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "deeper_and_darker"
+	group: "1FDD239F5BD83D55"
+	icon: "minecraft:reinforced_deepslate"
+	id: "2D400FCF96C8EAEE"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Enter for the first time in an &lancient city&r."]
+			icon: "minecraft:deepslate"
+			id: "742CC99E70777467"
+			shape: "hexagon"
+			size: 1.5d
+			subtitle: "Visit an Ancient City"
+			tasks: [{
+				id: "488445D9107E4971"
+				structure: "minecraft:ancient_city"
+				title: "Visit an Ancient City"
+				type: "structure"
+			}]
+			title: "Welcome to the Abyss..."
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			id: "5137DEB19E91C2C3"
+			subtitle: "Kill your first Warden"
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: "deeperdarker:heart_of_the_deep"
+				id: "24C5E63D1451D9B0"
+				title: "Don't make any noise"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+	]
+	title: "The OtherSide"
+}

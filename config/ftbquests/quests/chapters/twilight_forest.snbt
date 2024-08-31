@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "twilight_forest"
+	group: "1FDD239F5BD83D55"
+	icon: "twilightforest:mazestone_brick"
+	id: "5BBEC6FE1721CA6E"
+	order_index: 5
+	quest_links: [ ]
+	quests: [ ]
+	title: "The Twilight Forest"
+}
