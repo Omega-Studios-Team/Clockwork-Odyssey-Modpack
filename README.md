@@ -4,7 +4,7 @@
 
 ## Information
 
-![GitHub Tag](https://img.shields.io/github/v/tag/RLLanonymous/Clockwork-Odyssey-Modpack?include_prereleases&sort=date&style=for-the-badge&logo=gitbook&color=%2307B1E0)
+![GitHub Tag](https://img.shields.io/github/v/tag/RLLanonymous/Clockwork-Odyssey-Modpack?include_prereleases&sort=date&style=for-the-badge&logo=gitbook&label=Latest%20Version&color=%2307B1E0)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RLLanonymous/Clockwork-Odyssey-Modpack/total?style=for-the-badge&logo=github&color=%23209403)
 
