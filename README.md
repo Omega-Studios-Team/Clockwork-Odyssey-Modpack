@@ -26,7 +26,7 @@ Where i can post issue ?
 
 Where i can see the github repository of the wiki page ?
 
--[HERE](https://github.com/RLLanonymous/ClockworkOdysseyWiki)
+- [HERE](https://github.com/RLLanonymous/ClockworkOdysseyWiki)
 
 ## Mods List
 
