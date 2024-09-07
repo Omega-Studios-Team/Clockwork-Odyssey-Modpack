@@ -24,6 +24,10 @@ Where i can post issue ?
 
 - [HERE](https://github.com/RLLanonymous/Clockwork-Odyssey-Modpack/issues)
 
+Where i can see the github repository of the wiki page ?
+
+-[HERE](https://github.com/RLLanonymous/ClockworkOdysseyWiki)
+
 ## Mods List
 
 - [The One Probe](https://www.curseforge.com/projects/245211) [1.19-6.2.2
