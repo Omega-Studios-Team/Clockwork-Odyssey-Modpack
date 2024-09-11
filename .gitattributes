@@ -3,3 +3,4 @@
 *.cfg linguist-detectable
 *.json linguist-detectable
 *.snbt linguist-detectable
+*.toml linguist-detectable
