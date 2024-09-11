@@ -1,6 +1,5 @@
 *.md linguist-detectable
 *.yml linguist-detectable
 *.cfg linguist-detectable
-*.toml linguist-detectable
 *.json linguist-detectable
 *.snbt linguist-detectable
