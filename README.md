@@ -28,11 +28,13 @@
     <br>
     <a href="localized-readme/README-es.md">Español</a>
   </div>
+  <br>
   <div>
     <img src="https://flagsapi.com/PT/flat/64.png" height=30>
     <br>
     <a href="localized-readme/README-pt.md">Português</a>
   </div>
+  <br>
   <div>
     <img src="https://flagsapi.com/RU/flat/64.png" height=30>
     <br>
