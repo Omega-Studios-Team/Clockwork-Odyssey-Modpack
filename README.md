@@ -41,6 +41,7 @@
     <a href="localized-readme/README-ru.md">Русский</a>
   </div>
 </div>
+
 ## F.A.Q
 
 Why the config folder in this repository doesn't contain all of the config ?
