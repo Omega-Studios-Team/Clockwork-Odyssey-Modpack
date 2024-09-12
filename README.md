@@ -14,6 +14,31 @@
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RLLanonymous/Clockwork-Odyssey-Modpack/total?style=for-the-badge&logo=github&color=%23209403)
 
+## Localized README
+
+<div align="center">
+  <div>
+    <img src="https://flagsapi.com/FR/flat/64.png" height=30>
+    <br>
+    <a href="localized-readme/README-fr.md">Français</a>
+  </div>
+  <br>
+  <div>
+    <img src="https://flagsapi.com/ES/flat/64.png" height=30>
+    <br>
+    <a href="localized-readme/README-es.md">Español</a>
+  </div>
+  <div>
+    <img src="https://flagsapi.com/PT/flat/64.png" height=30>
+    <br>
+    <a href="localized-readme/README-pt.md">Português</a>
+  </div>
+  <div>
+    <img src="https://flagsapi.com/RY/flat/64.png" height=30>
+    <br>
+    <a href="localized-readme/README-ru.md">Русский</a>
+  </div>
+</div>
 ## F.A.Q
 
 Why the config folder in this repository doesn't contain all of the config ?
