@@ -13,3 +13,11 @@ StartupEvents.registry('item', event => {
     item.maxStackSize = 16
     item.rarity = "RARE"
 })
+
+// 
+StartupEvents.registry('item', event => {
+    event.create('')
+    .displayName('')
+    item.maxStackSize = 64
+    item.rarity = "COMMON"
+})
