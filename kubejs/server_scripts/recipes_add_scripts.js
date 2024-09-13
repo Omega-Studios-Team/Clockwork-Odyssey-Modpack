@@ -35,3 +35,15 @@ ServerEvents.recipes(event => {
         D: 'minecraft:gold_ingot'
     })
 })  
+// Clock Star Recipe
+ServerEvents.recpies(event => {
+    event.shaped('kubejs:clock_star', [
+        'BAB',
+        'ACA',
+        'BAB'
+    ],{
+        A: 'minecraft:netherite_block',
+        B: 'kubejs:clock_coin',
+        C: 'minecraft:nether_star'
+    })
+})
