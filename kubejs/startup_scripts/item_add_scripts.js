@@ -3,7 +3,7 @@ StartupEvents.registry('item', event => {
     event.create('clock_coin')
     .displayName('Clock Coin')
     item.maxStackSize = 8
-    item.rarity = "EPIC"
+    item.rarity = "RARE"
 })
 
 // BrokenClockCoin
@@ -14,10 +14,11 @@ StartupEvents.registry('item', event => {
     item.rarity = "RARE"
 })
 
-// 
+// Clock Star 
 StartupEvents.registry('item', event => {
-    event.create('')
-    .displayName('')
+    event.create('clock_star')
+    .displayName('Clock Star')
     item.maxStackSize = 64
-    item.rarity = "COMMON"
+    item.rarity = "EPIC"
 })
+
