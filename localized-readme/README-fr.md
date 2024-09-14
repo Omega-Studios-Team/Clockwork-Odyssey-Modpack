@@ -60,7 +60,7 @@ Où puis-je voir le dépôt github de la page wiki ?
 
 - [ICI](https://github.com/RLLanonymous/ClockworkOdysseyWiki)
 
-## Mods List
+## Liste des modifications
 
 - [Experimental Settings Disabler](https://www.curseforge.com/projects/926083) [1.0] by Eruannie_9
 - [KubeJSDelight](https://www.curseforge.com/projects/864875) [1.1.2
